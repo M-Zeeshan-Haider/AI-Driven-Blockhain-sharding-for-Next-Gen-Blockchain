@@ -58,7 +58,7 @@ A_-Driven Predictive Sharding/
 
 ### 2️⃣ Clone the Repository
 `bash
-git clone https://github.com/M-Zeeshan-Haider/AI-Driven-Blockhain-sharding-for-Next-Gen-Blockchain.git
+git clone https://github.com/M-Zeeshan-Haider/AI-Driven-Blockhain-sharding-PSAP-.git
 cd AI-Driven-Predictive-Sharding 
 
 ### 3️⃣ Run the Main Program
